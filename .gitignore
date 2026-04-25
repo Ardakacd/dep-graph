@@ -1,0 +1,14 @@
+# secrets
+.env
+.env.*
+
+# deps & build
+node_modules/
+
+# agent session traces (public repo)
+agent-sessions/
+
+# OS / editor
+.DS_Store
+*.log
+*.tsbuildinfo
